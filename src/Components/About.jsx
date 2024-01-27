@@ -23,20 +23,16 @@ const imageAltText = "Galaxy";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description = "Hello, I'm Rudraksh Kushwaha, currently on an exciting journey pursuing my Bachelor of Engineering in IT at Sinhgad College of Engineering in Pune. I'm a passionate developer with a robust foundation in HTML, CSS, JavaScript, Bootstrap, JAVA, Python and various backend languages.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Development",
+  "Java",
+  "DSA",
 ];
 
 /**
@@ -44,8 +40,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote ="I cried because I had no shoes until I saw a man with no feet";
 
 const About = () => {
   return (
